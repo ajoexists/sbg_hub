@@ -1,0 +1,2 @@
+# sbg_hub
+ SBG Game Dev Hub is a Flutter app showcasing my game development portfolio. Features include:  Login: User authentication. Forgot Password: Password reset functionality. Register: New user registration. Home Screen: Displays all developed games. About Section: Information about Stone Broke Games with auto-route guard. Form Validation: Using form_validator package. Routing: Using auto_route package. Responsive Design: Using responsive_framework package.
